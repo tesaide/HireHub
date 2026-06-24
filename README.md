@@ -1,4 +1,4 @@
-# 🏢 HireHub — Job Board API
+# HireHub — Job Board API
 
 Node.js + Express + PostgreSQL + Vue 3 + WebSocket
 
