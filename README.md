@@ -16,7 +16,7 @@ Node.js + Express + PostgreSQL + Vue 3 + WebSocket
 
 ## Швидкий старт
 
-### Варіант 1: Docker 
+### Варіант 1: Docker
 
 ```bash
 # Скопіювати .env
