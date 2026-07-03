@@ -97,7 +97,7 @@ GET    /api/applications/job/:id    🔒 employer only
 PATCH  /api/applications/:id/status 🔒 employer only
 ```
 
-## Тестові акаунти
+## Тестові акаунти 
 
 | Email | Пароль | Роль |
 |---|---|---|
