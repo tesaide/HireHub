@@ -100,7 +100,7 @@ PATCH  /api/applications/:id/status 🔒 employer only
 ## Тестові акаунти 
 
 | Email | Пароль | Роль |
-|---|---|---|
+|---|---|---| 
 | alpha@corp.com | password123 | employer |
 | beta@studio.com | password123 | employer |
 | ivan@gmail.com | password123 | seeker |
