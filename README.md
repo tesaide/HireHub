@@ -89,7 +89,7 @@ PUT    /api/jobs/:id       🔒 employer only
 DELETE /api/jobs/:id       🔒 employer only
 ```
 
-### Applications
+### Applications. 
 ```
 POST   /api/applications            🔒 seeker only
 GET    /api/applications/my         🔒 seeker only
