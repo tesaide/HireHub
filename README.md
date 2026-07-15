@@ -22,7 +22,7 @@ Node.js + Express + PostgreSQL + Vue 3 + WebSocket
 # Скопіювати .env
 cp backend/.env.example backend/.env
 
-# Запустити все
+# Запустити все 
 docker-compose up --build
 
 # Backend: http://localhost:3000
