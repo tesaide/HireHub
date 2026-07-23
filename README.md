@@ -71,7 +71,7 @@ hirehub/
         └── pages/             # Vue сторінки
 ```
 
-## API Endpoints
+## API Endpoints 
 
 ### Auth
 ```
