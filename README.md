@@ -2,8 +2,7 @@
 
 Node.js + Express + PostgreSQL + Vue 3 + WebSocket
 
-## Стек. 
-
+## Стек.
 | Шар | Технологія | 
 |---|---|
 | Backend | Node.js + Express + TypeScript |
